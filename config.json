@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-and-debugging",
+      "title": "Testing and Debugging Python Programs",
+      "description": "Write pytest tests, diagnose failures, and debug Python functions",
+      "path": "assignments/testing-and-debugging",
+      "dueDate": "2026-10-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
